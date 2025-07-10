@@ -8,4 +8,11 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Models\" />
+    <Folder Include="UControls\" />
+    <Folder Include="Utils\" />
+    <Folder Include="configfiles\" />
+  </ItemGroup>
+
 </Project>
