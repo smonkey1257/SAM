@@ -10,11 +10,20 @@ using System.Windows.Forms;
 
 namespace SmartAlamSystem.UControls
 {
-    public partial class CircleButton : UserControl
+    public partial class CircleButton : Button
     {
         public CircleButton()
         {
             InitializeComponent();
+
+            #region 设置控件样式标志
+            SetStyle(ControlStyles.UserPaint, true);                // 控件由其自身而不是操作系统绘制
+            SetStyle(ControlStyles.AllPaintingInWmPaint, true);     // 忽略窗口消息，减少闪烁
+            SetStyle(ControlStyles.Selectable, true);
+            SetStyle(ControlStyles.OptimizedDoubleBuffer, true);    // 绘制到缓冲区，减少闪烁
+            SetStyle(ControlStyles.ResizeRedraw, true);             // 控件调整其大小时重绘
+            SetStyle(ControlStyles.SupportsTransparentBackColor, true);//支持透明背景
+            #endregion
         }
     }
 }
