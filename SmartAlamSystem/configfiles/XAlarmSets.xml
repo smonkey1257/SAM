@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Pumps>
+	<PumpInfo P="0" F="1" S="2">
+		<PumpName>1#水泵</PumpName>
+		<PumpNo>101</PumpNo>
+		<SlaveId>2</SlaveId>
+		<StateAddr>1</StateAddr>
+	</PumpInfo>
+	<PumpInfo P="0" F="1" S="2">
+		<PumpName>2#水泵</PumpName>
+		<PumpNo>102</PumpNo>
+		<SlaveId>3</SlaveId>
+		<StateAddr>2</StateAddr>
+	</PumpInfo>
+	<PumpInfo P="0" F="1" S="2">
+		<PumpName>3#水泵</PumpName>
+		<PumpNo>103</PumpNo>
+		<SlaveId>4</SlaveId>
+		<StateAddr>3</StateAddr>
+	</PumpInfo>
+	<PumpInfo P="0" F="1" S="2">
+		<PumpName>4#水泵</PumpName>
+		<PumpNo>104</PumpNo>
+		<SlaveId>5</SlaveId>
+		<StateAddr>4</StateAddr>
+	</PumpInfo>
+	<PumpInfo P="0" F="1" S="2">
+		<PumpName>5#水泵</PumpName>
+		<PumpNo>105</PumpNo>
+		<SlaveId>6</SlaveId>
+		<StateAddr>5</StateAddr>
+	</PumpInfo>
+	<PumpInfo P="0" F="1" S="2">
+		<PumpName>6#水泵</PumpName>
+		<PumpNo>106</PumpNo>
+		<SlaveId>7</SlaveId>
+		<StateAddr>6</StateAddr>
+	</PumpInfo>
+</Pumps>

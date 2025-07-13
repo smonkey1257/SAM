@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<AlarmSets>
+	<AlarmInfo>
+		<!-- 功率 -->
+		<ParaType>Power</ParaType>
+		<AlarmHigh>1000</AlarmHigh>
+		<AlarmLow>100</AlarmLow>
+	</AlarmInfo>
+	<AlarmInfo>
+		<!-- 频率 -->
+		<ParaType>Frequency</ParaType>
+		<AlarmHigh>200</AlarmHigh>
+		<AlarmLow>50</AlarmLow>
+	</AlarmInfo>
+	<AlarmInfo>
+		<!-- 速度 -->
+		<ParaType>Speed</ParaType>
+		<AlarmHigh>3000</AlarmHigh>
+		<AlarmLow>1000</AlarmLow>
+	</AlarmInfo>
+</AlarmSets>

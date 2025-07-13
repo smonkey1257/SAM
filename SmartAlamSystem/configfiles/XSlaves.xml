@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Slaves>
+  <SlaveInfo>
+    <SlaveId>1</SlaveId>
+    <FunctionCode>1</FunctionCode>
+    <StartAddress>0</StartAddress>
+    <Count>7</Count>
+  </SlaveInfo>
+  <SlaveInfo>
+    <SlaveId>2</SlaveId>
+    <FunctionCode>3</FunctionCode>
+    <StartAddress>0</StartAddress>
+    <Count>3</Count>
+  </SlaveInfo>
+  <SlaveInfo>
+    <SlaveId>3</SlaveId>
+    <FunctionCode>3</FunctionCode>
+    <StartAddress>0</StartAddress>
+    <Count>3</Count>
+  </SlaveInfo>
+  <SlaveInfo>
+    <SlaveId>4</SlaveId>
+    <FunctionCode>3</FunctionCode>
+    <StartAddress>0</StartAddress>
+    <Count>3</Count>
+  </SlaveInfo>
+  <SlaveInfo>
+    <SlaveId>5</SlaveId>
+    <FunctionCode>3</FunctionCode>
+    <StartAddress>0</StartAddress>
+    <Count>3</Count>
+  </SlaveInfo>
+  <SlaveInfo>
+    <SlaveId>6</SlaveId>
+    <FunctionCode>3</FunctionCode>
+    <StartAddress>0</StartAddress>
+    <Count>3</Count>
+  </SlaveInfo>
+  <SlaveInfo>
+    <SlaveId>7</SlaveId>
+    <FunctionCode>3</FunctionCode>
+    <StartAddress>0</StartAddress>
+    <Count>3</Count>
+  </SlaveInfo>
+</Slaves>
